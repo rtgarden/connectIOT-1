@@ -3,10 +3,31 @@ branches
 
     master
     develop
+    
 the master branch is the actual origin reflecting a production ready state.
 the develop branch is the ongoing next release version which nightly builds are based on and which
 is being readied for next release. When it is completely stable the develop branch is merged
 back into the master branch and it is tagged with a version release number.
+
+additional branches are used often in development teams to organize the process
+with the intent of eventually merging these branches back into the develop branch.
+some examples are:
+
+
+    Feature branches
+    Release branches
+    Hotfix branches
+
+feature breanches track the development of and merging in of news features
+and they merge only into the develop lane
+
+hotfix branches relate to crucial bug fixes and often
+involve the master branch. when fixed they need to be merged back into both the
+master branch and the develop branch so that
+the fix is included in the next release
+
+the release branch is merged into develop and then master along
+with its release number.
 
 
 
