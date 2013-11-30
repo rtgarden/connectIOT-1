@@ -21,6 +21,25 @@ So basically the teachers can easily overview any additions that are made to the
 to be sure a high standard is being met.
 This is all done with pull requests.
 
-2A assignment should be the fork and spoon github exercise.
+2A assignment should be the octocat/spoon-knife github fork a repo exercise:
+https://help.github.com/articles/fork-a-repo
+
+pay special attention to how to create an upstream
+from a master so that you can pull requests from the project:
+
+git fetch upstream
+git merge upstream/master
+
+altogether:
+cd Spoon-Knife
+# Changes the active directory in the prompt to the newly cloned "Spoon-Knife" directory
+git remote add upstream https://github.com/octocat/Spoon-Knife.git
+# Assigns the original repository to a remote called "upstream"
+git fetch upstream
+# Pulls in changes not present in your local repository, without modifying your files
+
+https://github.com/octocat/Spoon-Knife
+
+
 
 Node Red setup is probably next or in the sequence.
