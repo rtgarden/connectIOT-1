@@ -10,3 +10,8 @@ to comment use #
 
 ----------
 more learning resources:
+
+learning with a Pi and minecraft
+http://www.raspberrypi.org/archives/4595
+also uses:
+http://www.codecademy.com/
