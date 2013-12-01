@@ -1,0 +1,7 @@
+http://www.python.org/download/
+after you download and setup python on your system
+start the tutorial:
+http://docs.python.org/3/tutorial/
+
+----------
+more learning resources:
