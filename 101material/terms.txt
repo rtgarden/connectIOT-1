@@ -93,3 +93,5 @@ Further paragraphs come after blank lines.
  If you can’t find a way to summarize your commit in 50 characters or less, 
  you probably should make two commits instead.
  ---------------------------------------
+ for GitHub flavored markup
+ https://help.github.com/articles/github-flavored-markdown
