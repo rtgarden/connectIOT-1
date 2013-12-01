@@ -2,6 +2,11 @@ http://www.python.org/download/
 after you download and setup python on your system
 start the tutorial:
 http://docs.python.org/3/tutorial/
+----------
+to exit python prompt: quit()
+to comment use #
+#this is a python comment
+
 
 ----------
 more learning resources:
