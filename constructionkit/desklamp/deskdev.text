@@ -1,1 +1,10 @@
 expanding on the lamp as a development environment including the orbs and the cloud
+organic LCD display roghly 160x240 similar to the size of the IOTpager
+run by an arduino
+limited color display, using the constraints to stay within
+a simple language.
+will have some affordances: 
+usb plu in, LED lights, orbs, buttons, emergency light, battery back up, 
+
+definitely has:
+radios like zigby and z wave
