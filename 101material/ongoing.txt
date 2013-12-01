@@ -24,6 +24,9 @@ This is all done with pull requests.
 2A assignment should be the octocat/spoon-knife github fork a repo exercise:
 https://help.github.com/articles/fork-a-repo
 
+where you work with this octocat repository:
+https://github.com/octocat/Spoon-Knife
+
 pay special attention to how to create an upstream
 from a master so that you can pull requests from the project:
 
@@ -38,8 +41,9 @@ git remote add upstream https://github.com/octocat/Spoon-Knife.git
 git fetch upstream
 # Pulls in changes not present in your local repository, without modifying your files
 
-https://github.com/octocat/Spoon-Knife
 
+here is the github glossary:
+https://help.github.com/articles/github-glossary
 
 
 Node Red setup is probably next or in the sequence.
