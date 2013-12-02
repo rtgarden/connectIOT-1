@@ -1,6 +1,7 @@
 http://www.python.org/download/
 after you download and setup python on your system
-start the tutorial:
+ tutorials:
+https://developers.google.com/edu/python/set-up
 http://docs.python.org/3/tutorial/
 ----------
 to exit python prompt: quit()
