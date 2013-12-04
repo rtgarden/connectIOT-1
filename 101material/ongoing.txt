@@ -1,0 +1,49 @@
+Starting to collect the material for IOT101:
+
+initial project 1A:
+do you have a github?
+if no then follow process to get a github account.
+also a user acct on the connectIOT forum.
+
+This is the base for interactng with the teachers and the class.
+The 101 repository will have all of the class material on github
+and so your 1B assignment is to fork the repository and then clone it in your local desktop. 
+
+
+Usually its a good practice to fork your own copy and clone that.
+Basically using the distributed ability of github
+everyone in the class has a st of instructional materials, and they re able to contribute
+to the matrials and see each others contributions.
+the whole system is also able to be monitored by the people in charge
+of the project which in this case is instruction.
+
+So basically the teachers can easily overview any additions that are made to the material
+to be sure a high standard is being met.
+This is all done with pull requests.
+
+2A assignment should be the octocat/spoon-knife github fork a repo exercise:
+https://help.github.com/articles/fork-a-repo
+
+where you work with this octocat repository:
+https://github.com/octocat/Spoon-Knife
+
+pay special attention to how to create an upstream
+from a master so that you can pull requests from the project:
+
+git fetch upstream
+git merge upstream/master
+
+altogether:
+cd Spoon-Knife
+# Changes the active directory in the prompt to the newly cloned "Spoon-Knife" directory
+git remote add upstream https://github.com/octocat/Spoon-Knife.git
+# Assigns the original repository to a remote called "upstream"
+git fetch upstream
+# Pulls in changes not present in your local repository, without modifying your files
+
+
+here is the github glossary:
+https://help.github.com/articles/github-glossary
+
+
+Node Red setup is probably next or in the sequence.

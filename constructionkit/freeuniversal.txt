@@ -1,0 +1,31 @@
+free universal construction kit for information technology is fuckit
+
+construction kit for the internet of things
+
+prototype examples and replicable demos.
+----------
+weatherstation- 
+where the collaborative group tools are 
+used and developed in a large project scale.
+likely chat gets used here and hubot
+
+
+--------------
+desklamp- 
+inforbs and ambient settings
+crafting table for iot
+node red gateway
+highly portable development environment
+cloud connected
+
+
+
+------------------
+IOTpager-
+uses peggy2 API: infographic
+text and sprites
+
+simpler compact presence/ carried device
+
+
+----------------

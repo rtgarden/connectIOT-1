@@ -1,0 +1,35 @@
+Creating a record of the story of our connectIOT studio process
+
+
+RHV begins 10-2011
+weather station and remote 
+system monitoring for Michaels ranch 
+house in the hills. While he was staying at 
+my cabin we were trying to avoid rough weather.
+many good parameters revealed themselves quickly:
+satelite is not robust enough.
+automatic chicken doors need a lot of infrastructure
+snow collects on the solar panels, as well as the satellite and the
+weather monitor.
+
+
+abracadabra 5-2012 studio in Eureka established with the intention of building out some ideas
+for the internet of things. We constructed the first Peggy and peggy2 and very quickly discovered
+that there was no real way to run them from the reaspberry pi
+or arduino sets that we had.
+smart object api
+realized we needed to relocate to silicon valley.
+
+OSIOT 10-2012 started the community meetup with the intention of encouraging
+open source as an appropriate strategy for interoperability.
+
+defacto/osiot.org consortium project attempt 3-9 2012
+
+Sunnyvale office 4-2012 we established the 1281 lawrence station rd office in sunnyvale.
+
+iotorium 4-2012 working towards a template or vision of a community
+working process to actually integrate IOT into communities in a 
+meaningful and useful way.
+exploration of how t develop the idea with some help from ATMEL.
+
+connectIOT 11-2013 vertical stack integration as an overriding studio strategy.

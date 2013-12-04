@@ -1,0 +1,18 @@
+http://www.python.org/download/
+after you download and setup python on your system
+ tutorials:
+https://developers.google.com/edu/python/set-up
+http://docs.python.org/3/tutorial/
+----------
+to exit python prompt: quit()
+to comment use #
+#this is a python comment
+
+
+----------
+more learning resources:
+
+learning with a Pi and minecraft
+http://www.raspberrypi.org/archives/4595
+also uses:
+http://www.codecademy.com/
