@@ -33,3 +33,13 @@ meaningful and useful way.
 exploration of how t develop the idea with some help from ATMEL.
 
 connectIOT 11-2013 vertical stack integration as an overriding studio strategy.
+distributed as a method and a platform captured our imagination by
+Dec 2013 we had decided to locate ourselves pretty much entirely on GitHub.
+connectIOT strategy is leaning toward education and outreach for many of
+the basic concepts of IOT.
+
+IOT101 as a method of also distributing new hardware prototypes
+
+3D printing as an entry point, creating a collaborative project that shares files
+and allows some ludic spray around a standard size for fgures and toys (use existing metrics)
+investigation of outsourcing of 3D process and pipeline including composite objects.
