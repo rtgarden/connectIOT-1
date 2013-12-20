@@ -12,6 +12,11 @@ automatic chicken doors need a lot of infrastructure
 snow collects on the solar panels, as well as the satellite and the
 weather monitor.
 
+Connection to earlier work with superstruct and iftf becomes part of the project
+ubicomp and QR code related to visually embedded information
+
+beginning of virtualization project
+
 
 abracadabra 5-2012 studio in Eureka established with the intention of building out some ideas
 for the internet of things. We constructed the first Peggy and peggy2 and very quickly discovered
