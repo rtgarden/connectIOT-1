@@ -1,0 +1,19 @@
+Come and participate in the Open Source Internet of Things!
+The internet of things is rapidly developing into a new set of tools.
+Collaboration and tool development are our focus this year as we begin our meeting series again.
+After our first hour of sharing concepts and ideas we will introducw our new buildout series.
+The buildouts focus on hands on creation of working internet of things prototypes and
+potential services which are both open source and proprietary in nature.
+
+Our overall view is that in order for the internet of things to build out it needs 
+to be based on a set of Open Source Tools, the development of which is now well underway.
+Our hour of discussion will be a community oriented set of talks which will
+survey the emerging landscape.
+
+
+1 hour of discussion
+2 hours of buildout
+
+Lots of new boards and sensors are out there, several methods of deployment are available,
+we would like to gather with the #OSIOT community and facilitate the development of new projects.
+Open Source Internet of Things meetup group.
